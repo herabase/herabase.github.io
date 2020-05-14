@@ -1,0 +1,25 @@
+.title {
+  color: #02ccba;
+}
+.test{
+  border:2px solid red;
+  width:40px;
+
+  text-align:center;
+  padding:100px;
+  margin-right:40px;
+  float:left;
+}
+
+.test2{
+  border:2px solid red;
+  width:40px;
+
+  text-align:center;
+  padding:100px;
+  float:left;
+}
+
+.container h2{
+  float:left;
+}
